@@ -1,0 +1,47 @@
+{
+    "editor.fontLigatures": false,
+    "go.coverOnSingleTest": true,
+    "go.coverOnSingleTestFile": true,
+    "go.testTags": "-json",
+    "go.buildFlags": [
+        "-v"
+    ],
+    "editor.fontFamily": "'Cascadia Code', 'Jetbrains Mono', Menlo, Monaco, 'Courier New', monospace",
+    "workbench.iconTheme": "material-icon-theme",
+    "atomKeymap.promptV3Features": true,
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "python.languageServer": "Pylance",
+    "kite.showWelcomeNotificationOnStartup": false,
+    "python.testing.pytestEnabled": true,
+    "python.linting.flake8Enabled": true,
+    "[html]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode",
+        "editor.formatOnSave": true,
+    },
+    "[typescriptreact]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode",
+        "editor.formatOnSave": true,
+    },
+    "[typescript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode",
+        "editor.formatOnSave": true,
+    },
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode",
+        "editor.formatOnSave": true,
+    },
+    "python.formatting.blackArgs": [
+        "-t",
+        "py35"
+    ],
+    "prettier.packageManager": "yarn",
+    "explorer.confirmDragAndDrop": false,
+    "window.zoomLevel": 0,
+    "editor.rulers": [
+    80
+    ],
+    "workbench.colorTheme": "GitHub Dark",
+    "git.autofetch": true,
+    "codespaces.accountProvider": "GitHub",
+}
